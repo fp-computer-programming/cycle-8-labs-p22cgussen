@@ -6,4 +6,3 @@ def greeting():
 
 # help(greeting)
 greeting()
-
